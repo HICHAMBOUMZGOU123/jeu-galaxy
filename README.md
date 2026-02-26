@@ -49,7 +49,7 @@ user_actions.py # Gestion des entrées utilisateur
 
 ## 
 <p align="center">
-  <img src="screenshots/gestion-chambres.png" width="900"/>
+  <img src="visualisation du projet galaxy/PARTIE EN COURS .jpeg" width="900"/>
 </p>
 
 ---
