@@ -38,3 +38,25 @@ galaxy.kv # Interface du jeu
 transforms.py # Gestion des transformations graphiques
 user_actions.py # Gestion des entrées utilisateur
 ```
+# 📸 Aperçu de l'application
+
+## 
+<p align="center">
+  <img src="visualisation du projet galaxy/START.jpeg" width="900"/>
+</p>
+
+---
+
+## 
+<p align="center">
+  <img src="screenshots/gestion-chambres.png" width="900"/>
+</p>
+
+---
+
+##
+<p align="center">
+  <img src="screenshots/gestion-clients.png" width="900"/>
+</p>
+
+---
